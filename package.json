@@ -1,6 +1,9 @@
 {
   "name": "next-js-docker-sample",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
   "homepage": "https://github.com/kristiyan-velkov/docker-nextjs-sample",
   "author": {
     "name": "Kristiyan Velkov",
